@@ -28,4 +28,6 @@ Shared guide: https://github.com/chirag127/userscript-install-guide
 
 `sctl install ./paywall-bypass-userscript.user.js`, open a paywalled article, right-click, pick **Read via JSON-LD**, confirm the article renders.
 
-Documentation is single-sourced at `c:\ws\docs\okf\`. Your note: `c:\ws\docs\okf\scripts\paywall-bypass-userscript.md`. Do not create an `okf/` folder here.
+Documentation is single-sourced at `c:\ws\docs/okf\`. Your note: `c:\ws\docs/okf\scripts\paywall-bypass-userscript.md`. Do not create an `okf/` folder here.
+
+
